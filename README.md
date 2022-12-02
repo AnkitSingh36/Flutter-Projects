@@ -6,12 +6,13 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+This Project is about a recipe App, Made it from Scratch.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Used of the API and Bloc Structers for The Recipe's 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Flutter-Projects" 
+UI for this APP:
+
+<img width="194" alt="UI APP" src="https://user-images.githubusercontent.com/85792623/205230553-ff03fb55-2157-4850-a338-f8e7bc4d2d34.png">
+<img width="140" alt="UI 2" src="https://user-images.githubusercontent.com/85792623/205230579-c82e74d4-9a40-4a36-b77b-eeda38335222.png">
+
+
